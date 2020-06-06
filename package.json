@@ -13,7 +13,7 @@
   "dependencies": {
     "@sendgrid/mail": "^6.2.1",
     "apollo-engine": "^1.1.1",
-    "apollo-server-koa": "^1.3.6",
+    "apollo-server-koa": "^2.14.2",
     "argon2": "^0.18.3",
     "btcpay": "git+https://github.com/tanjalo/node-btcpay.git",
     "curve25519-n": "^1.2.0",
